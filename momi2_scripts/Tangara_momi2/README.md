@@ -1,1 +1,1 @@
-Scripts python files and the SFS used to run momi2 analysis for Tangara
+Python files and the SFS used to run momi2 analysis for Tangara
